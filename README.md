@@ -1,1 +1,1 @@
-№ 📚 React Homework 6 (Phonebook)
+# 📚 React Homework 6 (Phonebook)
